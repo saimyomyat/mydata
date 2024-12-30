@@ -1,0 +1,159 @@
+{
+    "entries": [],
+    "AgentAmount": [
+      {
+        "id": "1",
+        "name": "May Thu Win",
+        "corsar": 90,
+        "cor": 0.87,
+        "Amamount": 0,
+        "Pmamount": 0,
+        "damount": 0
+      },
+      {
+        "id": "2",
+        "name": "Nay Nay Win",
+        "corsar": 90,
+        "cor": 0.87,
+        "Amamount": 0,
+        "Pmamount": 0,
+        "damount": 0
+      },
+      {
+        "id": "3",
+        "name": "Sai Myo Myat",
+        "corsar": 90,
+        "cor": 0.85,
+        "Amamount": 0,
+        "Pmamount": 0,
+        "damount": 4000
+      },
+      {
+        "id": "4",
+        "name": "May Zin Phyo",
+        "corsar": 85,
+        "cor": 0.85,
+        "Amamount": 0,
+        "Pmamount": 0,
+        "damount": 0
+      },
+      {
+        "id": "5",
+        "name": "Ko Soe",
+        "corsar": 90,
+        "cor": 1,
+        "Amamount": 0,
+        "Pmamount": 0,
+        "damount": 0
+      },
+      {
+        "id": "6",
+        "name": "Paw OO",
+        "corsar": 90,
+        "cor": 1,
+        "Amamount": 0,
+        "Pmamount": 0,
+        "damount": 0
+      }
+    ],
+    "Weekend": [
+      {
+        "id": "d742",
+        "agentId": "3",
+        "number": "19",
+        "type": "AM",
+        "date": "2024-12-30",
+        "fetchedData": [
+          {
+            "id": "3",
+            "name": "Sai Myo Myat",
+            "corsar": 90,
+            "cor": 0.85,
+            "Amamount": 11000,
+            "Pmamount": 0,
+            "damount": 4000
+          }
+        ]
+      },
+      {
+        "id": "f943",
+        "agentId": "4",
+        "number": "19",
+        "type": "AM",
+        "date": "2024-12-30",
+        "fetchedData": [
+          {
+            "id": "4",
+            "name": "May Zin Phyo",
+            "corsar": 85,
+            "cor": 0.85,
+            "Amamount": 306700,
+            "Pmamount": 0,
+            "damount": 0
+          }
+        ]
+      },
+      {
+        "id": "8573",
+        "agentId": "3",
+        "number": "19",
+        "type": "AM",
+        "date": "2024-12-30",
+        "fetchedData": [
+          {
+            "id": "3",
+            "name": "Sai Myo Myat",
+            "corsar": 90,
+            "cor": 0.85,
+            "Amamount": 11000,
+            "Pmamount": 0,
+            "damount": 4000
+          }
+        ]
+      },
+      {
+        "id": "6f9b",
+        "agentId": "4",
+        "number": "19",
+        "type": "AM",
+        "date": "2024-12-30",
+        "fetchedData": [
+          {
+            "id": "4",
+            "name": "May Zin Phyo",
+            "corsar": 85,
+            "cor": 0.85,
+            "Amamount": 306700,
+            "Pmamount": 0,
+            "damount": 0
+          }
+        ]
+      }
+    ],
+    "another": [
+      {
+        "id": "c815",
+        "number": "668",
+        "amount": 1000,
+        "agentId": "3"
+      },
+      {
+        "id": "143e",
+        "number": "866",
+        "amount": 1000,
+        "agentId": "3"
+      },
+      {
+        "id": "02fe",
+        "number": "602",
+        "amount": 1000,
+        "agentId": "3"
+      },
+      {
+        "id": "1e6d",
+        "number": "941",
+        "amount": 1000,
+        "agentId": "3"
+      }
+    ]
+  }
